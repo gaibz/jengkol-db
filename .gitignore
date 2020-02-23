@@ -1,0 +1,50 @@
+**/.DS_Store
+**/node_modules
+package-lock.json
+dist/*
+src/renderer/assets/fontawesome-free-5/*
+starter/*
+starter/cordova
+
+# Logs
+starter/logs
+starter/*.log
+starter/npm-debug.log*
+starter/yarn-debug.log*
+starter/yarn-error.log*
+
+# Runtime data
+starter/pids
+starter/*.pid
+starter/*.seed
+starter/*.pid.lock
+
+# Dependency directories
+starter/node_modules/
+
+# Optional npm cache directory
+starter/.npm
+
+# Optional eslint cache
+starter/.eslintcache
+
+# Optional REPL history
+starter/.node_repl_history
+
+# Yarn Integrity file
+starter/.yarn-integrity
+
+# dotenv environment variables file
+starter/.env
+
+# Misc
+starter/.DS_Store
+starter/Thumbs.db
+
+# Cordova
+starter/cordova/platforms/
+starter/cordova/plugins/
+starter/cordova/www/
+
+# Production build
+starter/www/
